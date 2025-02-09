@@ -722,6 +722,12 @@ will generate topics under the namespaces:
 
 :::
 
+## PX4 ROS 2 service servers
+
+The PX4 [uxrce_dds_client](../modules/modules_system.md#uxrce-dds-client) provides ROS 2 service servers to simplify communication between ROS 2 nodes and the FCU.
+
+### VehicleCommand service
+
 ## ros2 CLI
 
 The [ros2 CLI](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools.html) is a useful tool for working with ROS.
